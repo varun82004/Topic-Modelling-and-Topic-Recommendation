@@ -14,7 +14,7 @@ This project demonstrates a content recommendation system that utilizes Latent D
 
 1. Clone this repository.
     ```bash
-    git clone <repository_link>
+    git clone (https://github.com/varun82004/Topic-Modelling-and-Topic-Recommendation.git)
     ```
 2. Install required libraries.
     ```bash
